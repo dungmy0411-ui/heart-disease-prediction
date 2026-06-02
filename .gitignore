@@ -1,0 +1,21 @@
+# --- Python và Jupyter Notebook Cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.virtualenvs/
+venv/
+ENV/
+
+# --- Cấu hình cục bộ của Streamlit ---
+.streamlit/
+
+# --- File hệ thống của hệ điều hành ---
+Thumbs.db
+.DS_Store
+
+# --- File báo cáo phụ trợ (Tùy chọn) ---
+# Nếu bạn không muốn tải các file nháp tạm thời lên thì có thể mở khóa các dòng dưới
+# *.log
+# *.tmp 
