@@ -39,7 +39,7 @@ Quy trình tiền xử lý dữ liệu được thiết kế chặt chẽ nhằm
 ### Bước 1: Sao chép mã nguồn (Clone Repository) về máy tính
 Mở Terminal/Command Prompt trên máy tính và thực hiện lệnh sao chép kho lưu trữ:
 ```bash
-git clone [https://github.com/dungmy0411-ui/heart-disease-prediction.git](https://github.com/TEN_TAI_KHOAN_CUA_BAN/heart-disease-prediction.git)
+git clone [https://github.com/dungmy0411-ui/heart-disease-prediction.git](https://github.com/dungmy0411-ui/heart-disease-prediction.git)
 cd heart-disease-prediction
 pip install -r requirements.txt
 streamlit run heart_app.py
